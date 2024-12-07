@@ -1,0 +1,14 @@
+beautifulsoup4==4.12.3
+certifi==2024.8.30
+charset-normalizer==3.4.0
+click==8.1.7
+idna==3.10
+iniconfig==2.0.0
+loguru==0.7.3
+packaging==24.2
+pluggy==1.5.0
+pytest==8.3.4
+pytest-mock==3.14.0
+requests==2.32.3
+soupsieve==2.6
+urllib3==2.2.3
